@@ -11,7 +11,8 @@ Now you can use it on Windows 10 without problems. Why spend another 2k on softw
 
 **Notes:**
 
-Patcher2 was made by github.com/hdf.
+Patcher2 project was made by github.com/hdf.
+I have only modified and added some code.
 
 
 
