@@ -1,4 +1,6 @@
 ![screendump example](https://image.ibb.co/dvgCww/screendump.png)
+![screendump debug](https://github.com/StackerDEV/5D-Organizer-Windows-10-Patch/blob/master/patch.png)
+
 
 5D Embroidory 5DOrganizer 9.5.0.0 Windows 10 rendering hotfix / patch
 ========
